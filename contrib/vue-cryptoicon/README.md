@@ -1,4 +1,4 @@
-#Crypto icons
+# Crypto icons
 
 ## Why?
 In presentation layer, I allow for only 3-7 main cryptocurrencies and their fiat versions. Whlist wallet addresses are Layer 1, for the purpose of presentation, the webserver needs to inspect the connector and determine the preferred units and report information back to the visual inspector. 
